@@ -1,5 +1,6 @@
 ## IG / TK Booster
 It is designed **ONLY for educational and personal learning purposes**.
+![Demo](preview.gif)
 
 ---
 
